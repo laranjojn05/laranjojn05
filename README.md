@@ -1,18 +1,87 @@
-<h1 align="center">Hi 👋, I'm Jenny May</h1>
-<h3 align="center">BS-Information System student</h3>
+<div align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px"/>
+  <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laranjojn05" alt="laranjojn05" /></a> </p>
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laranjojn05&show_icons=true&locale=en&layout=compact" alt="laranjojn05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laranjojn05&show_icons=true&locale=en" alt="laranjojn05" /></p>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=I'm+[Jenny May];" alt="Typing SVG" />
+</div>
 
 
 
+## > About_Me.exe 👨‍💻
+
+```python
+#!/usr/bin/python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Jenny May"
+        self.role = "Developer"
+        self.location = "PH"
+        self.knowledge_base = [
+            "JavaScript", "TypeScript", "Python",
+            "React", "Node.js",
+            "Machine Learning", "Cybersecurity"
+        ]
+        self.interests = [
+            "AI & ML",
+            "Open Source", "System Design"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## > Skills.sh 💻
+
+<div align="center">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
+
+## > Experience.log 📝
+
+- 🌱 **Learning:** New Knowledge
+- 👯 **Collaborating on:** ...
+- 📚 **Studying:** Bachelor in Science in Information System
+
+## > Stats.bat 📊
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=matrix&no-frame=true&no-bg=false&row=1&column=6" />
+</div>
+
+## > Connect.exe 🔗
+
+<div align="center">
+  <a href="https://github.com/laranjojn05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/YOURUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/{YOURUSERNAME}/count.svg" /></p> 
+</div>
+
+
+###### *psst - check my pinned repositories below* 👇
