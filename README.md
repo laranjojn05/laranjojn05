@@ -10,32 +10,6 @@
 
 
 
-## > About_Me.exe 👨‍💻
-
-```python
-#!/usr/bin/python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Jenny May"
-        self.role = "Developer"
-        self.location = "PH"
-        self.knowledge_base = [
-            "JavaScript", "TypeScript", "Python",
-            "React", "Node.js",
-            "Machine Learning", "Cybersecurity"
-        ]
-        self.interests = [
-            "AI & ML",
-            "Open Source", "System Design"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
 ## > Skills.sh 💻
 
 <div align="center">
