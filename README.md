@@ -7,17 +7,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=I'm+[Jenny May];" alt="Typing SVG" />
 </div>
-
-
-
-## > Skills.sh 💻
-
-<div align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</div>
+ 
 
 ## > Experience.log 📝
 
