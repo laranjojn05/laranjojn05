@@ -5,7 +5,7 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=50&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=I'm+[Jenny May];" alt="Typing SVG" />
+
 </div>
  
 
