@@ -20,5 +20,13 @@
   <p><img align="center" src="https://profile-counter.glitch.me/{YOURUSERNAME}/count.svg" /></p> 
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laranjojn05/laranjojn05/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laranjojn05/laranjojn05/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laranjojn05/laranjojn05/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ###### *psst - check my pinned repositories below* 👇
