@@ -10,6 +10,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
+<br>✨ In my free time, I enjoy playing Sudoku, challenging myself with puzzles of varying difficulty levels.</br>
+<br>✨Music is my escape</br>
+<br>✨Dancing is my passion</br>
 
 
 
