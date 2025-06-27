@@ -1,5 +1,8 @@
 <h2> Hi, I'm Jenny May Laranjo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdnNWt3dHVlejRzbGxuMTByazh4MW0wdzNhajV5M3JqbnducmRrZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZZv4cIy21A23e/giphy.gif"  />
+
 <p><em><br>Bachelor of Science in Information System!</br> 
 <b>Still Learning...</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
